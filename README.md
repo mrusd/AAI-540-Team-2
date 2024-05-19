@@ -4,7 +4,7 @@
 ## Table of Contents
 1. [Project Background](#project-background)
 2. [Technical Background](#technical-background)
-3. [Goals vs. Non-Goals](#goals-vs-nongoals)
+3. [Goals vs. Non-Goals](#goals-vs-non-goals)
 4. [Dataset](#dataset)
 
 ## Project Background
