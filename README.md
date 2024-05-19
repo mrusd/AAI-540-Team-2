@@ -16,13 +16,13 @@ This project aims to develop a machine learning model capable of accurately pred
 
 
 ## Goals vs. Non-Goals
-### &nbsp;Goals  
-- Accurate Prediction of Diabetes Risk: Using the BRFSS 2015 dataset, develop a machine learning model that accurately predicts the risk of type 2 diabetes, focusing on achieving high precision, recall, and F1 scores.  
--	Identification of Key Risk Factors: Identify and validate the most significant predictors of diabetes risk, such as glucose levels, BMI, age, and blood pressure, to provide actionable insights for healthcare professionals.  
--	Model Interpretability: Ensure the model is interpretable by healthcare professionals, allowing for easy understanding and trust in its predictions.  
--	Comprehensive Evaluation: To enhance the model's practical utility in early diabetes detection, use standard classification metrics (accuracy, precision, recall, F1-score) and consider business use cases such as reducing false negatives.
--	Scalable Data Preparation and Processing: Implement scalable data preparation and processing techniques to handle large datasets efficiently, including handling missing values, normalization, and feature scaling.  
-### &nbsp;Non-Goals  
+### Goals  
+  - Accurate Prediction of Diabetes Risk: Using the BRFSS 2015 dataset, develop a machine learning model that accurately predicts the risk of type 2 diabetes, focusing on achieving high precision, recall, and F1 scores.  
+  -	Identification of Key Risk Factors: Identify and validate the most significant predictors of diabetes risk, such as glucose levels, BMI, age, and blood pressure, to provide actionable insights for healthcare professionals.  
+  -	Model Interpretability: Ensure the model is interpretable by healthcare professionals, allowing for easy understanding and trust in its predictions.  
+  -	Comprehensive Evaluation: To enhance the model's practical utility in early diabetes detection, use standard classification metrics (accuracy, precision, recall, F1-score) and consider business use cases such as reducing false negatives.
+  -	Scalable Data Preparation and Processing: Implement scalable data preparation and processing techniques to handle large datasets efficiently, including handling missing values, normalization, and feature scaling.  
+### Non-Goals  
 -	Cure or Directly Treat Diabetes: The project will not aim to develop a cure or direct treatment for diabetes but rather to predict the risk and assist in early detection.  
 -	Real-Time Prediction Deployment: The project will not focus on deploying the model for real-time predictions in clinical settings but rather on developing and validating a robust predictive model.  
 -	Extensive Data Collection: The project will not involve collecting new data or extending the dataset beyond the BRFSS 2015 dataset; it will solely use the existing dataset for model development.  
