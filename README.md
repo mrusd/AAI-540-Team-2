@@ -1,20 +1,18 @@
 # AAI-540-Team-2
 Diabetes Detection
 
-<h1 style="color:blue;">Project Scope</h1>
+# Project Scope
 
 ## Table of Contents
 1. [Project Background](#project-background)
 2. [Technical Background](#technical-background)
 
-<h2 style="color:blue;">Project Background</h2>
-<p style="background-color:green;"> 
+## Project Background
 Diabetes, particularly type 2 diabetes, represents a critical public health challenge in the United States, affecting millions of individuals and creating a substantial economic burden. As a chronic condition characterized by the body's inability to effectively regulate blood glucose levels, diabetes can lead to serious health complications such as heart disease, vision loss, and kidney disease. The early detection and management of diabetes are crucial for improving patient outcomes and reducing healthcare costs. This project leverages the Behavioral Risk Factor Surveillance System (BRFSS) dataset to develop predictive models that accurately identify individuals at risk for diabetes, thereby aiding in early intervention and management.
 </p>
 
 
-<h2 style="color:blue;">Technical Background</h2>
-<p style="background-color:lightgray;">
+## Technical Background
 This project aims to develop a machine learning model capable of accurately predicting the risk of type 2 diabetes using the BRFSS 2015 dataset. This dataset contains responses from over 253,000 individuals and 21 feature variables that capture various health indicators and risk factors associated with diabetes. Given the prevalence of diabetes and the importance of early detection, this project aims to identify significant predictors and create a reliable predictive model.
 </p>
 
