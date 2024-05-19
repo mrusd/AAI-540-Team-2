@@ -1,7 +1,6 @@
 # AAI-540-Team-2
-Diabetes Detection
+**Diabetes Detection**
 
-# Project Scope
 
 ## Table of Contents
 1. [Project Background](#project-background)
