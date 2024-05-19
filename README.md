@@ -16,10 +16,10 @@ This project aims to develop a machine learning model capable of accurately pred
 
 
 ## Goals vs. Non-Goals
-### Goals
-•	Accurate Prediction of Diabetes Risk: Using the BRFSS 2015 dataset, develop a machine learning model that accurately predicts the risk of type 2 diabetes, focusing on achieving high precision, recall, and F1 scores.
-•	Identification of Key Risk Factors: Identify and validate the most significant predictors of diabetes risk, such as glucose levels, BMI, age, and blood pressure, to provide actionable insights for healthcare professionals.
-•	Model Interpretability: Ensure the model is interpretable by healthcare professionals, allowing for easy understanding and trust in its predictions.
+### Goals  
+- Accurate Prediction of Diabetes Risk: Using the BRFSS 2015 dataset, develop a machine learning model that accurately predicts the risk of type 2 diabetes, focusing on achieving high precision, recall, and F1 scores.  
+-	Identification of Key Risk Factors: Identify and validate the most significant predictors of diabetes risk, such as glucose levels, BMI, age, and blood pressure, to provide actionable insights for healthcare professionals.  
+-	Model Interpretability: Ensure the model is interpretable by healthcare professionals, allowing for easy understanding and trust in its predictions.
 •	Comprehensive Evaluation: To enhance the model's practical utility in early diabetes detection, use standard classification metrics (accuracy, precision, recall, F1-score) and consider business use cases such as reducing false negatives.
 •	Scalable Data Preparation and Processing: Implement scalable data preparation and processing techniques to handle large datasets efficiently, including handling missing values, normalization, and feature scaling.
 ###Non-Goals
